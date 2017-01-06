@@ -38,7 +38,6 @@ HOST = ''
 PORT = 0
 
 def initialisation():
-	# Création de la fenêtre principale (main window)
 	print("## Mise en réseau - Serveur")
 	HOST = '127.0.0.1'
 	try:
